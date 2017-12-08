@@ -82,5 +82,3 @@ behaviour() -&gt; <a href="exometer.md#type-behaviour">exometer:behaviour()</a>
 ### update/4 ###
 
 `update(Name, Value, Type, Ref) -> any()`
-
-

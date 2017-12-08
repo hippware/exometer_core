@@ -155,5 +155,3 @@ __Behaviours:__ [`exometer_probe`](exometer_probe.md).
 ### update/4 ###
 
 `update(Name, X2, Type, Ref) -> any()`
-
-

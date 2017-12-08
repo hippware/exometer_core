@@ -749,4 +749,3 @@ processing is complete.
 <tr><td><a href="exometer_spiral.md" class="module">exometer_spiral</a></td></tr>
 <tr><td><a href="exometer_uniform.md" class="module">exometer_uniform</a></td></tr>
 <tr><td><a href="exometer_util.md" class="module">exometer_util</a></td></tr></table>
-

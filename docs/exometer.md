@@ -727,5 +727,3 @@ templates (i.e. `['_']`) are ignored.
 ### update_or_create/4 ###
 
 `update_or_create(Name, Value, Type, Opts) -> any()`
-
-

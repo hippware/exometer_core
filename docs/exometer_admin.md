@@ -220,5 +220,3 @@ of the `#exometer_entry{}` record.
 ### terminate/2 ###
 
 `terminate(X1, X2) -> any()`
-
-

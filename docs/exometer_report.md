@@ -339,7 +339,7 @@ subsriptions for a given named interval will be reported when the interval
 triggers. An optional delay (in ms) can be given: this will cause the first
 interval to start in `Delay` milliseconds. When all intervals are named
 at the same time, the delay parameter can be used to achieve staggered
-reporting. If the interval is specified as 
+reporting. If the interval is specified as
 ```
   'manual
 ```
@@ -569,7 +569,7 @@ Specify a named interval.
 See [`add_reporter/2`](#add_reporter-2) for a description of named intervals.
 The named interval is here specified as either `Time` (milliseconds) or
 `{Time, Delay}`, where a delay in milliseconds is provided. It is also
-specify an interval as 
+specify an interval as
 ```
   'manual
 ```
@@ -680,7 +680,7 @@ trigger_interval(Reporter::<a href="#type-reporter_name">reporter_name()</a>, Na
 
 Trigger a named interval.
 
-This function is mainly used to trigger intervals defined as 
+This function is mainly used to trigger intervals defined as
 ```
   'manual
 ```
@@ -725,4 +725,3 @@ unsubscribe_all(Reporter::module(), Metric::<a href="#type-metric">metric()</a>)
 <br />
 
 Removes all subscriptions related to Metric in Reporter.
-

@@ -171,5 +171,3 @@ This function doesn't return.
 ### system_terminate/4 ###
 
 `system_terminate(Reason, Parent, Debug, State) -> any()`
-
-

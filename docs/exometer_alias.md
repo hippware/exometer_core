@@ -14,7 +14,7 @@ __Behaviours:__ [`gen_server`](gen_server.md).
 
 ## Description ##
 
- 
+
 An alias can be either an atom or a binary, and maps to an
 entry+datapoint pair. The registry is an ordered set with binary keys,
 enabling straight lookup, prefix match/fold and regexp fold.

@@ -715,5 +715,3 @@ An entry that simply builds a list of datapoints, using the abstract syntax.
 ### update/4 ###
 
 `update(X1, X2, X3, X4) -> any()`
-
-

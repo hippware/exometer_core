@@ -92,5 +92,3 @@ __Behaviours:__ [`exometer_probe`](exometer_probe.md).
 ### probe_update/2 ###
 
 `probe_update(Value, St) -> any()`
-
-

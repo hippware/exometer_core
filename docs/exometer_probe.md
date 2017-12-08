@@ -731,5 +731,3 @@ Example:
 ### update/4 ###
 
 `update(Name, Value, Type, Pid) -> any()`
-
-

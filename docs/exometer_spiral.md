@@ -110,5 +110,3 @@ behaviour() -&gt; <a href="exometer.md#type-behaviour">exometer:behaviour()</a>
 ### probe_update/2 ###
 
 `probe_update(Increment, St) -> any()`
-
-

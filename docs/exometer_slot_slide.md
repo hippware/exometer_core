@@ -432,5 +432,3 @@ reset(Slide::#slide{}) -&gt; #slide{}
 to_list(Slide::#slide{}) -&gt; list()
 </code></pre>
 <br />
-
-

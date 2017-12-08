@@ -99,5 +99,3 @@ __Behaviours:__ [`gen_server`](gen_server.md).
 ### write/4 ###
 
 `write(Name, DataPoint, Value, TTL) -> any()`
-
-

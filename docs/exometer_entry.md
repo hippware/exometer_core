@@ -537,5 +537,3 @@ type() = atom()
 <pre><code>
 value() = any()
 </code></pre>
-
-
